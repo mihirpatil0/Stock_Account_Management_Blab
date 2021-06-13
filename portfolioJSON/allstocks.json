@@ -1,0 +1,27 @@
+{	
+	"stocks": [
+				{ 
+					"name":"reliance",
+					"quantity":10,
+					"price": 10
+				},
+				{
+					"name":"bata",
+					"quantity":20,
+					"price": 20
+				
+				},
+				{
+					 
+					"name":"godrej",
+					"quantity":30,
+					"price": 30 
+				},
+				{ 
+					
+					"name":"ongc",
+					"quantity":40,
+					"price": 40
+				}
+		]
+}
